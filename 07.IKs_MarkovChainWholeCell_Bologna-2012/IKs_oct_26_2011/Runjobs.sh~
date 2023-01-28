@@ -1,6 +1,0 @@
-cd /home/sanjay/Bologna/IKs_oct_22_2011/acuteDHA_CtrlModified
-nohup matlab -nodisplay -nojvm -nodesktop < drive.m > matlablog.txt &
-cd /home/sanjay/Bologna/IKs_oct_22_2011/acuteEPA_CtrlModified
-nohup matlab -nodisplay -nojvm -nodesktop < drive.m > matlablog.txt &
-cd ..
-
