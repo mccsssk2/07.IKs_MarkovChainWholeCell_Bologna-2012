@@ -28,7 +28,9 @@ the steepest gradient parameter estimator function.
 
 # Use.  
 
-Run the drive.m programs.
+Run the driver.m programs. The program can be (should be) compiled using the matlab compiler
+"mcc -mv -R -nodisplay driver.m" to run on clusters/non-interactively. The markov chain 
+RHS can be replaced by any other corresponding to data, e.g. INa, ICaL, ...
 
 # Maintainer.  
 
